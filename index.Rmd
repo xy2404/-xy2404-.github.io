@@ -22,6 +22,7 @@ the screenshot is good:
 
 <img src="image/in.png" style="width:75%">
 
-Teemo:
-<img src="image/" style="width:75%">
+
+my code is [here](code.html)
+
 
