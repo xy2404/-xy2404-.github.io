@@ -1,0 +1,27 @@
+---
+title: "Holy cow!"
+---
+
+### I have a webpage!
+
+And I can put all kinds of stuff on it!
+
+I can add additional text,
+
+I *could* write some code....
+
+### Add the links
+
+I like [to look for code on the internet](https://www.google.com).
+
+I can link directrly to my [about page](about.html).
+
+### upload pictures 
+
+the screenshot is good:
+
+<img src="image/in.png" style="width:75%">
+
+Teemo:
+<img src="image/" style="width:75%">
+
